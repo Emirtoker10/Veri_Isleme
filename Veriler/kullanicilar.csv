@@ -1,0 +1,4 @@
+user_id,name,age,email,last_login,fav_color,purchase_history,is_active,city,extra_column
+2,Ayşe Yılmaz,,ayse@example.com,2025-01-02 12:33,red,"""""[]""""",False,Ankara,qwer
+3,Can D.,34,can@example.com,2024-11-11 08:00,yellow,"""""['shoes']""""",True,İzmir,zxcv
+5,Ahmet K.,23,ahmet@example.com,,purple,None,True,Bursa,asd2
